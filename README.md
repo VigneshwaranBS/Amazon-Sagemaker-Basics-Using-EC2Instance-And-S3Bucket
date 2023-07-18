@@ -1,1 +1,1 @@
-# Amazon-Sagemaker-Basics-Using-EC2Instance-And-S3Bucket
+# Amazon-Sagemaker-Basics-Using-S3Bucket
